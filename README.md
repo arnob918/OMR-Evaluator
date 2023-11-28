@@ -1,4 +1,4 @@
-# OMR-Evaluator-
+# OMR-Evaluator
 A website to evaluate OMR sheets using image processing
 
 OMR sheets have been widely used across the globe for grading purposes. It is a process of
